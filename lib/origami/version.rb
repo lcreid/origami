@@ -19,5 +19,5 @@
 =end
 
 module Origami
-    VERSION   = "2.0.1"
-end 
+    VERSION   = "2.0.1.1"
+end
